@@ -29,7 +29,7 @@ A dedicated 3rd-year Information and Communication Technology (ICT) student at C
 
 ### Cape Peninsula University of Technology (CPUT)
 **Diploma in Information and Communication Technology**  
-*2024 – Present* | Cape Town, South Africa  
+*2024– Present* | Cape Town, South Africa  
 **Current Year:** 3rd Year
 
 ---
