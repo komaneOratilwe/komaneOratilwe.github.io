@@ -88,10 +88,9 @@ A dedicated 3rd-year Information and Communication Technology (ICT) student at C
 ## 🎥 Mock Interview Video
 
 <video width="100%" controls>
-  <source src="komane.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/komaneOratilwe/komaneOratilwe.github.io/main/komane.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
----
-
+-----
 *Portfolio: https://komaneOratilwe.github.io*
