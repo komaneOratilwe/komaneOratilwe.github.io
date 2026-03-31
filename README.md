@@ -46,7 +46,7 @@ A dedicated 3rd-year Information and Communication Technology (ICT) student at C
 - Platform connecting students with industry opportunities
 - Students create profiles, browse internships, and track applications
 - Employers post opportunities and manage applicants
-- **Technologies:** PHP, Laravel, HTML, CSS, JavaScript, SQL
+- **Technologies:** java, react
 
 ---
 
@@ -58,7 +58,7 @@ A dedicated 3rd-year Information and Communication Technology (ICT) student at C
 
 ### Student Marketplace Platform
 - Marketplace for students to buy and sell items within the campus community
-- **Technologies:** PHP, Laravel, SQL, JavaScript
+- **Technologies:** java
 
 ---
 
@@ -71,7 +71,7 @@ A dedicated 3rd-year Information and Communication Technology (ICT) student at C
 ## Volunteer Experience
 
 ### Event Volunteer | Google Developer Groups (GDG) Cape Town  
-*2024 – Present*
+*2026 – Present*
 
 - Assisted in organizing and coordinating tech events and workshops
 - Supported event setup, registration, and attendee management
